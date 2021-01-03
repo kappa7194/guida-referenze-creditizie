@@ -61,3 +61,43 @@ Le società abilitate a fornire il servizio SIC in Italia sono quattro:
 - [Experian](https://www.experian.it/consumatori)
 
 Ognuna di queste società costruisce una propria valutazione indipendente dalle altre, è quindi opportuno chiedere ad ognuna di esse la loro versione della propria referenza creditizia.
+
+## Come chiedere le proprie referenze creditizie
+
+### Preparazione
+
+Prima di iniziare a inviare le richieste, assicuratevi di avere a disposizione una copia fronte-retro della vostra carta d'identità e una copia fronte-retro della vostra tessera sanitaria, che dovrete allegare alle richieste.
+
+Entrambe le copie sono consigliate in formato PDF, in quanto accettato da tutte le società.
+
+Come ottenere queste copie è al di fuori dello scopo di questa guida.
+
+È inoltre necessario avere accesso ad un numero di telefono cellulare e ad una casella e-mail e, possibilmente, anche ad una casella PEC (quest'ultima non è obbligatoria).
+
+### Assilea
+
+https://www.assilea.it/richiestaWebBDCR.do
+
+TODO
+
+**Attenzione** — Se viene lasciato passare troppo tempo tra il click sul pulsante "Consumatore" e l'invio del modulo coi dati personali il codice OTP non viene inviato e nessun messaggio di errore viene visualizzato, costringendo a ricominciare la procedura dall'inizio.
+
+### Consorzio tutela del credito
+
+https://consumatore.ctconline.it/
+
+TODO
+
+### CRIF
+
+https://www.modulorichiesta.crif.com/consumers/Persona.aspx
+
+TODO
+
+### Experian
+
+https://www.experian.it/consumatori/il-sistema-di-informazioni-creditizie-di-experian-
+
+https://www.experian.it/consumatori/come-contattare-il-servizio-consumatori-di-experian
+
+TODO
