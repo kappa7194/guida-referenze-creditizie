@@ -51,6 +51,10 @@ Non si ha tuttavia alcun diritto di chiedere la rimozione di informazioni che co
 
 Le informazioni vengono automaticamente eliminate man mano che raggiungono la scadenza designata; il periodo per il quale le informazioni restano incluse nelle referenze variano in base al tipo di informazione in sé e alle altre informazioni tracciate; ad esempio, più mancati pagamenti avvengono più tardi questi verranno cancellati dalle banche dati.
 
+## Perché è utile sapere quali dati hanno su di noi i SIC?
+
+TODO
+
 ## Quali società forniscono il servizio SIC in Italia?
 
 Le società abilitate a fornire il servizio SIC in Italia sono quattro:
