@@ -108,21 +108,22 @@ Nota — L'[informativa privacy](https://www.assilea.it/jsp/bdcrweb/informativa.
 
 ### Consorzio tutela del credito
 
-La procedura per inviare la richiesta inizia alla pagina web https://consumatore.ctconline.it/.
+Nota — La società vi invierà una PEC, quindi potete specificare un indirizzo e-mail PEC quando indicate i vostri dati, anche se il campo non è esplicitamente indicato come e-mail PEC.
 
-Si deve innanzitutto cliccare il link "Creare on line la vostra istanza di accesso" e quindi cliccare il pulsante "Inserisci richiesta on-line".
+1. Andate alla pagina web https://consumatore.ctconline.it/
+1. Cliccate sul link "creare on line la vostra istanza di accesso".
+1. Cliccate sul pulsante "inserisci richiesta on-line".
+1. Selezionate la voce "accesso" e proseguite.
+1. Selezionate la voce "persona fisica" e proseguite.
+1. Inserite i vostri dati e proseguite.
+1. Recuperate dall'indirizzo e-mail che avete specificato il modulo precompilato.
+1. Firmate il modulo.
+1. Tornate alla pagina web https://consumatore.ctconline.it/
+1. Cliccate sul link "completare la procedura rapida della vostra istanza on line".
+1. Effettuate l'accesso coi dati richiesti (il numero di protocollo lo trovate in alto nel modulo precompilato).
+1. Caricate i documenti richiesti.
 
-Come tipo di richiesta dev'essere selezionata la voce "accesso" e come soggetto interessato "persona fisica", è quindi necessario proseguire inserendo i propri dati personali.
-
-Si riceverà quindi una e-mail di tipo PEC contenente il modulo precompilato che dovrà essere firmato e allegato alla richiesta.
-
-Per caricare il modulo firmato tornate alla pagina web https://consumatore.ctconline.it/ e cliccate sul link "Completare la procedura rapida della vostra istanza on line".
-
-Effettuate l'accesso indicando il vostro codice fiscale e il numero di protocollo, che trovate in alto a destra nel file PDF che avete firmato poco fa, e caricate quindi i documenti richiesti.
-
-Dopo aver caricato i documenti richiesti dovete aspettare la risposta della società.
-
-> TODO - Aggiornare una volta ricevuta la risposta dalla società.
+Aspettate quindi la risposta della società.
 
 ### CRIF
 
@@ -131,6 +132,8 @@ Dopo aver caricato i documenti richiesti dovete aspettare la risposta della soci
 1. Selezionate le voci A e D e proseguite.
 1. Compilate il modulo coi vostri dati personali e proseguite.
 1. ???
+
+Aspettate quindi la risposta della società.
 
 ### Experian
 
