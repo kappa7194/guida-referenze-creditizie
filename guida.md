@@ -35,7 +35,7 @@ In una referenza creditizia vengono tracciati gli eventi sia positivi sia negati
   - carte di credito;
 - pagamenti regolari delle rate di un debito;
 - mancati pagamenti delle rate di un debito;
-- estinzione di un debito;
+- estinzione di un debito.
 
 ## A cosa serve una referenza creditizia?
 
@@ -88,7 +88,7 @@ In questa pagina è necessario cliccare il pulsante "Consumatore" e quindi compi
 
 Dopo aver inviato il modulo coi dati personali si riceverà un SMS sul numero indicato nel modulo che dovrà essere inserito nell'apposito campo per poter proseguire.
 
-**Attenzione** — Se viene lasciato passare troppo tempo tra il click sul pulsante "Consumatore" e l'invio del modulo coi dati personali il codice OTP non viene inviato e nessun messaggio di errore viene visualizzato, costringendo a ricominciare la procedura dall'inizio.
+**Attenzione** — Se viene lasciato passare troppo tempo prima dell'invio del modulo coi dati personali il codice OTP non viene inviato e nessun messaggio di errore viene visualizzato, costringendo a ricominciare la procedura dall'inizio.
 
 Dopo aver validato il numero di telefono si riceverà all'indirizzo e-mail indicato una e-mail contenente due link, un link per completare la richiesta caricando i propri documenti d'identità e un link per annullare la richiesta.
 
