@@ -104,9 +104,21 @@ Nota — L'[informativa privacy](https://www.assilea.it/jsp/bdcrweb/informativa.
 
 ### Consorzio tutela del credito
 
-https://consumatore.ctconline.it/
+La procedura per inviare la richiesta inizia alla pagina web https://consumatore.ctconline.it/.
 
-TODO
+Si deve innanzitutto cliccare il link "Creare on line la vostra istanza di accesso" e quindi cliccare il pulsante "Inserisci richiesta on-line".
+
+Come tipo di richiesta dev'essere selezionata la voce "accesso" e come soggetto interessato "persona fisica", è quindi necessario proseguire inserendo i propri dati personali.
+
+Si riceverà quindi una e-mail di tipo PEC contenente il modulo precompilato che dovrà essere firmato e allegato alla richiesta.
+
+Per caricare il modulo firmato tornate alla pagina web https://consumatore.ctconline.it/ e cliccate sul link "Completare la procedura rapida della vostra istanza on line".
+
+Effettuate l'accesso indicando il vostro codice fiscale e il numero di protocollo, che trovate in alto a destra nel file PDF che avete firmato poco fa, e caricate quindi i documenti richiesti.
+
+Dopo aver caricato i documenti richiesti dovete aspettare la risposta della società.
+
+> TODO - Aggiornare una volta ricevuta la risposta dalla società.
 
 ### CRIF
 
