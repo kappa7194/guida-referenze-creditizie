@@ -86,23 +86,22 @@ Per evitare di dover stampare, compilare, firmare e scannerizzare i vari moduli 
 
 ### Assilea
 
-La procedura per inviare la richiesta inizia alla pagina web https://www.assilea.it/richiestaWebBDCR.do.
-
-In questa pagina è necessario cliccare il pulsante "Consumatore" e quindi compilare il modulo che viene visualizzato coi propri dati personali.
-
-Dopo aver inviato il modulo coi dati personali si riceverà un SMS sul numero indicato nel modulo che dovrà essere inserito nell'apposito campo per poter proseguire.
-
 **Attenzione** — Se viene lasciato passare troppo tempo prima dell'invio del modulo coi dati personali il codice OTP non viene inviato e nessun messaggio di errore viene visualizzato, costringendo a ricominciare la procedura dall'inizio.
-
-Dopo aver validato il numero di telefono si riceverà all'indirizzo e-mail indicato una e-mail contenente due link, un link per completare la richiesta caricando i propri documenti d'identità e un link per annullare la richiesta.
-
-Utilizzando il link per completare la richiesta viene visualizzata una pagina in cui poter caricare le copie della carta d'identità e della tessera sanitaria.
 
 **Attenzione** — Non sembra esservi alcun tipo di feedback quando i documenti vengono caricati a parte il messaggio visualizzato nel pop-up di caricamento. Quando il pop-up di caricamento viene chiuso non sembra esservi alcuna indicazione su quali documenti siano stati caricati e se lo sono stati correttamente.
 
-Dopo aver caricato i documenti richiesti dovete aspettare la risposta della società.
+1. Andate alla pagina web https://www.assilea.it/richiestaWebBDCR.do
+1. Cliccate sul pulsante "consumatore".
+1. Inserite i vostri dati personali e proseguite.
+1. Inserite il codice che avete ricevuto via SMS e proseguite.
+1. Recuperate dall'indirizzo e-mail che avete specificato il messaggio che vi è stato inviato.
+1. Cliccate sul link "fare clic sul link seguente per scaricare il documento da firmare e allegare, insieme ai documenti indicati".
+1. ???
+1. Firmate il modulo.
+1. Tornate alla pagina aperta poco fa.
+1. Caricate i documenti richiesti.
 
-> TODO - Aggiornare una volta ricevuta la risposta dalla società.
+Aspettate quindi la risposta della società.
 
 Nota — L'[informativa privacy](https://www.assilea.it/jsp/bdcrweb/informativa.pdf) che viene si viene obbligati ad accettare per inviare la richiesta indica che i dati comunicati "saranno conservati per dieci anni a decorrere dalla data della richiesta" (punto *h* dell'informativa). Nessuna delle altre società pone un simile vincolo, che ritengo sproporzionato; per questo motivo ho sporto reclamo presso il Garante per la protezione dei dati personali, attualmente sono in attesa della loro risposta.
 
