@@ -126,9 +126,11 @@ Dopo aver caricato i documenti richiesti dovete aspettare la risposta della soci
 
 ### CRIF
 
-https://www.modulorichiesta.crif.com/consumers/Persona.aspx
-
-TODO
+1. Andate alla pagina web https://www.modulorichiesta.crif.com/consumers/Persona.aspx
+1. Cliccate sul pulsante "compila una nuova richiesta".
+1. Selezionate le voci A e D e proseguite.
+1. Compilate il modulo coi vostri dati personali e proseguite.
+1. ???
 
 ### Experian
 
