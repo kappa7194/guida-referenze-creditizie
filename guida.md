@@ -64,15 +64,21 @@ Ognuna di queste società costruisce una propria valutazione indipendente dalle 
 
 ## Come chiedere le proprie referenze creditizie
 
-### Preparazione
+### Prerequisiti
 
-Prima di iniziare a inviare le richieste, assicuratevi di avere a disposizione una copia fronte-retro della vostra carta d'identità e una copia fronte-retro della vostra tessera sanitaria, che dovrete allegare alle richieste.
+Prima di iniziare a inviare le richieste assicuratevi di avere sotto mano le seguenti cose:
 
-Entrambe le copie sono consigliate in formato PDF, in quanto accettato da tutte le società.
+- un numero di telefono cellulare su cui poter ricevere SMS;
+- un indirizzo e-mail su cui poter ricevere e-mail;
+- un indirizzo e-mail PEC su cui poter ricevere e-mail PEC (opzionale);
+- una copia fronte-retro della vostra carta d'identità in corso di validità in formato PDF;
+- una copia fronte-retro della vostra tessera sanitaria in corso di validità in formato PDF.
 
-Come ottenere queste copie è al di fuori dello scopo di questa guida.
+Come ottenere le copie in formato PDF dei documenti è al di fuori di questa guida. Se avete a disposizione uno scanner potete generare i file PDF utilizzando un software come [NAPS2](https://www.naps2.com/).
 
-È inoltre necessario avere accesso ad un numero di telefono cellulare e ad una casella e-mail e, possibilmente, anche ad una casella PEC (quest'ultima non è obbligatoria).
+### Compilazione dei moduli
+
+Per evitare di dover stampare, compilare, firmare e scannerizzare i vari moduli che verranno man mano chiesti può essere utilizzata la funzionalità [*Fill and sign*](https://helpx.adobe.com/reader/using/fill-and-sign.html) di Adobe Acrobat Reader DC.
 
 ### Assilea
 
