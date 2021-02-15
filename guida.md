@@ -24,9 +24,7 @@ In passato i SIC erano conosciuti come *centrali rischi*.
 
 ## Che cos'è una referenza creditizia?
 
-Una referenza creditizia — la versione italiana dell'americano *credit score* — è una valutazione che riassume il rischio di credito di una persona, ovvero qual è la probabilità che un debito contratto non venga onorato.
-
-In una referenza creditizia vengono tracciati gli eventi sia positivi sia negativi riguardanti i debiti contratti da una persona, ad esempio vi sono tracciati:
+In una referenza creditizia possono essere tracciati gli eventi sia positivi sia negativi riguardanti i debiti contratti da una persona, ad esempio vi sono tracciati:
 
 - rapporti di debito in corso, quali ad esempio
   - finanziamenti,
@@ -39,7 +37,7 @@ In una referenza creditizia vengono tracciati gli eventi sia positivi sia negati
 
 ## A cosa serve una referenza creditizia?
 
-Le referenze creditizie vengono consultate dalle società a viene chiesto un qualche tipo di credito — ad esempio un mutuo, un finanziamento, un prestito o una carta di credito — per farsi un'idea se riavranno indietro o no i soldi che gli sono dovuti, e quindi se concedervi o meno la linea di credito.
+Le referenze creditizie possono essere consultate dalle società a viene chiesto un qualche tipo di credito — ad esempio un mutuo, un finanziamento, un prestito o una carta di credito — per farsi un'idea se riavranno o no indietro i soldi che gli sono dovuti, e quindi se concedervi o meno la linea di credito.
 
 ## Quali diritti ha una persona nei riguardi delle proprie referenze creditizie?
 
@@ -49,11 +47,15 @@ Si ha anche il diritto a chiedere che eventuali informazioni errate vengano corr
 
 Non si ha tuttavia alcun diritto di chiedere la rimozione di informazioni che corrispondono a verità; ad esempio, non si può intimare la rimozione di mancati pagamenti se questi si sono realmente verificati.
 
-Le informazioni vengono automaticamente eliminate man mano che raggiungono la scadenza designata; il periodo per il quale le informazioni restano incluse nelle referenze variano in base al tipo di informazione in sé e alle altre informazioni tracciate; ad esempio, più mancati pagamenti avvengono più tardi questi verranno cancellati dalle banche dati.
+Le informazioni vengono automaticamente eliminate man mano che raggiungono la scadenza designata; il periodo per il quale le informazioni restano incluse nelle referenze variano in base al tipo di informazione e alle altre informazioni tracciate; ad esempio, più mancati pagamenti avvengono più tardi questi verranno cancellati dalle banche dati.
 
 ## Perché è utile sapere quali dati hanno su di noi i SIC?
 
-TODO
+Può essere utile per capire se qualcun altro ha contratto dei debiti a vostro nome (ad esempio in caso di furto d'identità) o se c'è stato qualche errore nelle trascrizioni da parte dei vari partecipanti (ad esempio se la banca ha indicato come non pagata una rata di un mutuo che avete effettivamente pagato).
+
+Dato che l'esattezza di queste informazioni può influire anche significativamente sulla propria vita — si pensi al vedersi rifiutato il mutuo mentre si sta comprando casa — unito al fatto che chi vi ha rifiutato il credito non è tenuto a dirvi il motivo del rifiuto, assicurarsi che non ci siano problemi è come fare manutenzione preventiva senza aspettare che l'automobile prenda fuoco mentre si è in autostrada.
+
+E poi, in ogni caso, si tratta di vostri dati ed è un vostro diritto averli.
 
 ## Quali società forniscono il servizio SIC in Italia?
 
@@ -78,11 +80,13 @@ Prima di iniziare a inviare le richieste assicuratevi di avere sotto mano le seg
 - una copia fronte-retro della vostra carta d'identità in corso di validità in formato PDF;
 - una copia fronte-retro della vostra tessera sanitaria in corso di validità in formato PDF.
 
-Come ottenere le copie in formato PDF dei documenti è al di fuori di questa guida. Se avete a disposizione uno scanner potete generare i file PDF utilizzando un software come [NAPS2](https://www.naps2.com/).
+Indicazioni dettagliate su come ottenere le copie in formato PDF dei documenti è al di fuori di questa guida.
+
+Se avete a disposizione uno scanner potete generare i file PDF utilizzando un software come [NAPS2](https://www.naps2.com/).
 
 ### Compilazione dei moduli
 
-Per evitare di dover stampare, compilare, firmare e scannerizzare i vari moduli che verranno man mano chiesti può essere utilizzata la funzionalità [*Fill and sign*](https://helpx.adobe.com/reader/using/fill-and-sign.html) di Adobe Acrobat Reader DC.
+Le società vogliono copie "originali" dei vari documenti che chiedono, utilizzare funzioni quali la [*Fill and sign*](https://helpx.adobe.com/reader/using/fill-and-sign.html) di Adobe Acrobat Reader DC per evitare di stampare, compilare e scansionare i moduli porta spesso al rifiuto delle richieste con l'indicazione di allegare i documenti "originali".
 
 ### Assilea
 
